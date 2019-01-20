@@ -2,3 +2,4 @@ name: MSU Denver ACM
 markdown: kramdown
 theme: jekyll-theme-slate
 title: "MSU Denver ACM Student Chapter"
+github.is_project_page: No
