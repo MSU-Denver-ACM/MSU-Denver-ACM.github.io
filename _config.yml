@@ -1,9 +1,4 @@
 name: MSU Denver ACM
 markdown: kramdown
 theme: jekyll-theme-slate
-defaults:
-    -
-        scope:
-            path: ""
-        values:
-            title: "MSU Denver ACM Student Chapter"
+title: "MSU Denver ACM Student Chapter"
