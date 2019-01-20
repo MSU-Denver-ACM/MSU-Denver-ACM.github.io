@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="/style.css">
+## Monthly meeting of the MSU ACM Student Chapter
+# EMOTET Incident Response and Lessons Learned
+
+* __Mike Hart: Director of Security, Infrastructure, and Network Services__
+* __Ben LeDoux: Security Administrator__
+
+Friday, February 1st, 2019<br/>
+3:30 -- 4:30
+
+AES Building 220<br/>
+Auraris Campus<br/>
+1449 7th <https://goo.gl/maps/vtFkTNGuyaH2>
+
+From <https://www.us-cert.gov/ncas/alerts/TA18-201A>
+> Emotet is an advanced, modular banking Trojan that primarily functions as a downloader or dropper of other banking Trojans. Emotet continues to be among the most costly and destructive malware affecting state, local, tribal, and territorial (SLTT) governments, and the private and public sectors.
