@@ -16,6 +16,6 @@ bonding over common interests.
 
 There are these Special Interest Groups available within our student chapter:
 * Machine Learning
-* Mobile Computing
+* [Mobile Computing](SIGS/Mobile/)
 * [Cybersecurity](SIGS/Cybersecurity/)
 * Functional Programming
