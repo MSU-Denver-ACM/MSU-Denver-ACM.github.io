@@ -3,7 +3,6 @@ h1, h2 {
 }
 
 img.logo {
-  margin-top: 2.5em;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -24,7 +23,7 @@ img.logo {
   float: right;
   margin: 1% 2%;
   font-size: 1.5em;
-  color: #fff;
+
 }
 
 .navbar a {
