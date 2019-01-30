@@ -10,7 +10,7 @@ img.logo {
 }
 
 .navbar {
-  position: fixed;
+  position: absolute;
   top: 0;
   width: 100%;
 }
