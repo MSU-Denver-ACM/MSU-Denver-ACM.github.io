@@ -8,18 +8,32 @@ img.logo {
   margin-right: auto;
 }
 
-ul.social {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 60px;
+.nav_bar ul li:first-child {
+  float: left;
+  margin-left: 1%;
 }
-
-li {
+.nav_bar ul li {
   display: inline-block;
   list-style: none;
-  margin: 10px 30px;
-  font-size: 20px;
+  float: right;
+  margin: 10px 30px 5px;
+  font-size: 16pt;
   color: #fff;
+}
 
+.nav_bar a {
+  text-decoration: none;
+  color: #fff;
+}
+
+#acm a:hover {
+  color: #add8e6;
+  text-align: left;
+}
+#facebook a:hover  {
+  color: #3b5998;
+  align-items: flex-end;
+}
+#youtube a:hover {
+  color: #ff0000;
 }
