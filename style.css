@@ -3,25 +3,31 @@ h1, h2 {
 }
 
 img.logo {
+  margin-top: 2.5em;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.nav_bar ul li:first-child {
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar ul li:first-child {
   float: left;
   margin-left: 1%;
 }
-.nav_bar ul li {
+.navbar ul li {
   display: inline-block;
   list-style: none;
   float: right;
-  margin: 10px 30px 5px;
-  font-size: 16pt;
+  margin: 1% 2%;
+  font-size: 1.5em;
   color: #fff;
 }
 
-.nav_bar a {
+.navbar a {
   text-decoration: none;
   color: #fff;
 }
