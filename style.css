@@ -2,8 +2,24 @@ h1, h2 {
     text-align: center;
 }
 
-img.center {
+img.logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+ul.social {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+  margin: 10px 30px;
+  font-size: 20px;
+  color: #fff;
+
 }
