@@ -15,7 +15,7 @@ will be provided with unique opportunities for networking, mentoring, and
 bonding over common interests.
 
 There are these Special Interest Groups available within our student chapter:
-* [Machine Learning] (SIGS/Machine_Learning/)
+* [Machine Learning](SIGS/Machine_Learning/)
 * [Mobile Computing](SIGS/Mobile/)
 * [Cybersecurity](SIGS/Cybersecurity/)
 * Functional Programming
