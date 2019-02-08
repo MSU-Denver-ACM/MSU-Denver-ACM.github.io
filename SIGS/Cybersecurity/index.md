@@ -7,8 +7,7 @@ layout: default
  *Kali/Metasploitable - Penetration Testing 
 by Dr. Beaty*<br>
 Friday, February 15th, 2019 <br>
-11:00am - 12:00pm
-<br>
+12:00 - 1:00pm
 <br>
 
    * Presentation will cover Networking Basics and how to setup and run Kali and Metasploitable 2. No experience required. 
@@ -21,6 +20,7 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 <br>
 <br>
 <br>
+
 **Past Events**
 
 *EMOTET Presentation
@@ -31,6 +31,7 @@ and Network Services*
 
 <br>
 <br>
+
 **Career and Additional Info**
 
 Data on jobs available, job titles, relevant education and certificates and career paths. <https://www.cyberseek.org/>
