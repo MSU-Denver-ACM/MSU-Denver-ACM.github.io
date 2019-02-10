@@ -26,7 +26,7 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 
 **Moar stuff**
 
-Flutter reached a version 1.0 not to long ago!
+Flutter reached a version 1.0 not too long ago!
 <https://www.youtube.com/watch?v=kpcjBD1XDwU>
 
 Uber is going to demonstrate one of their prototype technologies.
