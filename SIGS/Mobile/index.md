@@ -4,7 +4,7 @@ layout: default
 
 **Next Event**
 
-*Don't like Amajon Web Stuff? - Let's try Firebase.*<br>
+*Don't like Amazon Web Stuff? - Let's try Firebase.*<br>
 Friday, February 15th, 2019 <br>
 01:00pm - 2:00pm
 <br>
