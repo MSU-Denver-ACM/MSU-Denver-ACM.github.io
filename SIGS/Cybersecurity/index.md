@@ -3,7 +3,9 @@ layout: default
 ---
 
 **Next Event**<br>
-*Coming soon...*<br>
+```
+Coming soon...
+```
 
 **Past Events**<br>
 
