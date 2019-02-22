@@ -2,14 +2,12 @@
 layout: default
 ---
 
-**Next Event**
+**Next Event**<br>
+*Coming soon...*<br>
 
+**Past Events**<br>
 
-<br>
-<br>
-
-**Past Events**
-*Kali/Metasploitable - Penetration Testing
+***Kali/Metasploitable*** - *Penetration Testing
 by Dr. Beaty*<br>
 Friday, February 15th, 2019 <br>
 12:00 - 1:00pm
@@ -25,8 +23,8 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 <br>
 <br>
 
-*EMOTET Presentation
-by Mike Hart: Director of Security, Infrastructure,
+***EMOTET Presentation***
+*by Mike Hart: Director of Security, Infrastructure,
 and Network Services*
 
 [Download EMOTET Presentation](https://msu-denver-acm.github.io/SIGS/Cybersecurity/assets/02012019emotet.pdf/)
