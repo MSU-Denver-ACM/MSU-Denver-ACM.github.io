@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+## Functional Programming
 **Upcoming Event**
 ```
 Coming soon...

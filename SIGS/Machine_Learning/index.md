@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+## Machine Learning
 Machine Learning SIG meeting **every 3rd Friday** 11-12 AES200K
 
 **Upcoming Event**
