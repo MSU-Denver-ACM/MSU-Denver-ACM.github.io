@@ -10,5 +10,5 @@ Coming soon...
 <br>
 Resources to learn more about Functional Programming.<br>
 [Wikipedia Functional programming](https://en.wikipedia.org/wiki/Functional_programming)<br>
-[The Scala Programming Language](https://www.scala-lang.org/)
-[The Scheme Programming Language, by R. Kent Dybvig](https://www.scheme.com/tspl4/)
+[The Scala Programming Language](https://www.scala-lang.org/)<br>
+[The Scheme Programming Language, by R. Kent Dybvig](https://www.scheme.com/tspl4/)<br>

@@ -7,8 +7,8 @@ Machine Learning SIG meeting **every 3rd Friday** 11-12 AES200K
 ```
 "Programming Camp for STEM students using Python and R”
 by Dr. Feng Jiang, Dr. Rajan Ranjidha
-Time TBD
-Location TBD
+Date: March 1st, Friday 3:30-4:30pm
+Location: SI 3079
 ```
 
 <br>
