@@ -1,20 +1,23 @@
-# https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/git_team1.png
-# https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/trello_team2.png
 
+# https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/git_team1.png
 rm -f git_team1.png
 pageres \
     --filename=git_team1 \
     --scale='.5' \
     https://github.com/AllisonDLucca/3250-spring-2019-team-1/graphs/contributors
 
+# https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/git_team2.png
+rm -f git_team2.png
+pageres \
+    --filename=git_team2 \
+    --scale='.5' \
+    https://github.com/rhill53/CS3250SpringH2KTB/graphs/contributors
+
+# https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/trello_team2.png
 rm -f trello_team2.png
 pageres \
     --filename=trello_team2 \
     --scale='.5' \
     https://trello.com/b/K4Ub1cnv/jvpm
 
-rm -f git_team2.png
-pageres \
-    --filename=git_team2 \
-    --scale='.5' \
-    https://github.com/rhill53/CS3250SpringH2KTB/graphs/contributors
+git commit -am `date "+%Y-%m-%d:%H:%M:%S"`
