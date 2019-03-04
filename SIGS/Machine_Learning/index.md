@@ -11,7 +11,7 @@ Coming soon...
 <br>
 **Past Events**<br>
 
-***Programming Camp for STEM students using Python and R***
+***Programming BootCamp for STEM students using Python and R***
 *by Dr. Feng Jiang, Dr. Rajan Ranjidha*
 Date: March 1st, Friday 3:30-4:30pm
 Location: SI 3079
