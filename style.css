@@ -13,7 +13,7 @@ img.logo {
   top: 0;
   width: 100%;
 }
-.navbar ul li:first-child {
+.navbar ul li:nth-child(-n+2) {
   float: left;
   margin-left: 1%;
 }
@@ -33,12 +33,13 @@ img.logo {
 
 #acm a:hover {
   color: #add8e6;
-  text-align: left;
+
 }
 #facebook a:hover  {
   color: #3b5998;
-  align-items: flex-end;
+
 }
 #youtube a:hover {
   color: #ff0000;
+
 }

@@ -16,7 +16,7 @@ Coming soon...
 Date: March 1st, Friday 3:30-4:30pm
 Location: SI 3079
 
-[Download Presentation and Source Code]({{ site.baseurl }}/Archive/STEMBootCamp.zip)
+[Download STEM BootCamp Presentation and Source Code]({{ site.baseurl }}/Archive/ML/STEMBootCamp.zip)
 
 <br>
 <br>
