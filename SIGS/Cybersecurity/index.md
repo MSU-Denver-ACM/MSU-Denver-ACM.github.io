@@ -26,7 +26,7 @@ Instructions for installing/running virtual machines can be found [here.](https:
 
 ***EMOTET Presentation***
 *by Mike Hart: Director of Security, Infrastructure,
-and Network Services*
+and Network Services*<br>
 [Download EMOTET Presentation]({{ site.baseurl }}/Archive/Cybersecurity/02012019emotet.pdf)
 
 <br>
