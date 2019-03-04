@@ -28,8 +28,7 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 ***EMOTET Presentation***
 *by Mike Hart: Director of Security, Infrastructure,
 and Network Services*
-
-[Download EMOTET Presentation](https://msu-denver-acm.github.io/SIGS/Cybersecurity/assets/02012019emotet.pdf/)
+[Download EMOTET Presentation]({{ site.baseurl }}/Archive/.DS_Store)
 
 <br>
 <br>
