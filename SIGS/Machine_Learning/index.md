@@ -8,6 +8,7 @@ Machine Learning SIG meeting **every 3rd Friday** 11-12 AES200K
 ```
 Coming soon...
 ```
+<br>
 **Past Events**<br>
 
 ***Programming Camp for STEM students using Python and R***

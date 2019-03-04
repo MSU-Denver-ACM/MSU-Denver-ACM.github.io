@@ -21,7 +21,6 @@ Friday, February 15th, 2019 <br>
 
 Instructions for installing/running virtual machines can be found [here.](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
 
-Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
 <br>
 <br>
 
@@ -32,7 +31,7 @@ and Network Services*
 
 <br>
 <br>
-
+Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
 
 **Career and Additional Info**
 
