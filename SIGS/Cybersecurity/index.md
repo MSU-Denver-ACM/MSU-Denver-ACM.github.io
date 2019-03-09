@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-## Cybersecurity
-**Next Event**<br>
+## Cybersecurity<br>
+### Next Event <br>
 ***Open Source Intelligence (OSINT)*** - *Using Open-Source Tools to Find Vulnerable Targets*<br>
 *by Stephen Chavez, Cybersecurity Researcher
 Friday, March 15th, 2019<br>
