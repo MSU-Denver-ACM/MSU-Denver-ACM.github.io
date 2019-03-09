@@ -18,17 +18,13 @@ Stephen will show how to use such tools to search and identify vulnerable real-w
 
 ### Past Events <br>
 
-Kali/Metasploitable - *Penetration Testing
-by Dr. Beaty*
-<br>
-Instructions for installing/running virtual machines can be found [here.](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
+* Kali/Metasploitable - *Penetration Testing by Dr. Beaty*
 
+> Instructions for installing/running virtual machines can be found [here.](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
 <br>
 
-EMOTET Presentation
-*by Mike Hart: Director of Security, Infrastructure,
-and Network Services*<br>
-[Download EMOTET Presentation]({{ site.baseurl }}/Archive/Cybersecurity/20190201_emotet_incident.pdf)
+* EMOTET Presentation - *by Mike Hart: Director of Security, Infrastructure, and Network Services*
+> [Download EMOTET Presentation]({{ site.baseurl }}/Archive/Cybersecurity/20190201_emotet_incident.pdf)
 
 <br>
 Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
