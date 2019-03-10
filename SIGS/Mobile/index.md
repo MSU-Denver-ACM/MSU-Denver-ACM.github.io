@@ -3,7 +3,9 @@ layout: default
 ---
 ## Mobile Computing
 **Next Event**
+*Thinking ...* <br>
 
+**Past Events**
 *Don't like Amazon Web Stuff? - Let's try Firebase.*<br>
 Friday, February 15th, 2019 <br>
 01:00pm - 2:00pm
@@ -17,9 +19,6 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 <br>
 <br>
 
-**Past Events**
-
-*None*
 
 <br>
 <br>
