@@ -8,7 +8,7 @@ Machine Learning SIG meeting **every 3rd Friday** 11-12 AES200K
 ***Pedestrian Detection***<br>
 *By Dr. Feng Jiang*<br>
 *Friday, March 15th, 2019<br>
-11:00am - 12:00pm*
+AES200K 11:00am - 12:00pm*
 <br>
 
 ### Past Events<br>
