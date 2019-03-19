@@ -25,5 +25,8 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 
 **Moar stuff**
 
+Mr. Yaghmour is giving a talk regarding the Android's security internals.
+<https://www.youtube.com/watch?v=7QwhF4ANq6Q>
+
 Kotlinconf is happening again this year.
 <https://kotlinconf.com/>
