@@ -5,13 +5,16 @@ layout: default
 Machine Learning SIG meeting **every 3rd Friday** 11-12 AES200K
 
 ### Upcoming Event<br>
-***Pedestrian Detection***<br>
-*By Dr. Feng Jiang*<br>
-*Friday, March 15th, 2019<br>
-AES200K 11:00am - 12:00pm*
+*Brewing...*
 <br>
 
 ### Past Events<br>
+
+***Pedestrian Detection***<br>
+*By Dr. Feng Jiang*<br>
+Friday, March 15th, 2019<br>
+AES200K 11:00am - 12:00pm
+<br>
 
 ***Programming BootCamp for STEM students using Python and R***
 *by Dr. Feng Jiang, Dr. Rajan Ranjidha*
