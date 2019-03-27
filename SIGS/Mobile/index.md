@@ -3,7 +3,12 @@ layout: default
 ---
 ## Mobile Computing
 **Next Event**
-*Thinking ...* <br>
+*How's it like being an Android intern?* <br>
+Date undefined, hopefully in the AES 220 <br>
+
+* I will be giving a talk on my experience as an Android intern, while
+I was working for FitSW and Trimble Navigation.
+ ![Alt text](./MyMistake.png?raw=true "Time to put out the fire.")
 
 **Past Events**
 *Don't like Amazon Web Stuff? - Let's try Firebase.*<br>
@@ -24,6 +29,9 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 <br>
 
 **Moar stuff**
+
+AndroidThings no longer supported for certain System on Modules.
+<https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html>
 
 Mr. Yaghmour is giving a talk regarding the Android's security internals.
 <https://www.youtube.com/watch?v=7QwhF4ANq6Q>
