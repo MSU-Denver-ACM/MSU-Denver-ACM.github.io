@@ -3,7 +3,11 @@ layout: default
 ---
 ## Cybersecurity<br>
 ### Next Event <br>
-*Coming soon...*<br>
+***RockCyber CEO Presentation*** - *Topic: TBA*<br>
+*by Rock Lambros, CEO RockCyber<br>
+Friday, April 19, 2019
+12:00 - 1:00pm*
+<br>
 
 ### Past Events <br>
 
