@@ -3,7 +3,7 @@ layout: default
 ---
 ## Cybersecurity<br>
 ### Next Event <br>
-*Brewing...*<br>
+*Coming soon...*<br>
 
 ### Past Events <br>
 

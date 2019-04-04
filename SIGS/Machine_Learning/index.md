@@ -4,8 +4,12 @@ layout: default
 ## Machine Learning
 Machine Learning SIG meeting **every 3rd Friday** 11-12 AES200K
 
-### Upcoming Event<br>
-*Brewing...*
+### Next Event<br>
+***Coming soon...***<br>
+***Machine Learning for Absolute Beginners - Make Your Own ML program***<br>
+*By Karan Bhargava*<br>
+Friday, April *TBD*<br>
+Location: *TBD*
 <br>
 
 ### Past Events<br>
