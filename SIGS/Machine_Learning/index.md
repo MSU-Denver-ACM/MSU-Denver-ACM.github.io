@@ -7,8 +7,8 @@ Machine Learning SIG meeting **every 3rd Friday** 11-12 AES200K
 ### Next Event<br>
 ***Machine Learning for Absolute Beginners - Make Your Own ML program***<br>
 *By Karan Bhargava*<br>
-Friday, April *TBD*<br>
-Location: *TBD*
+Friday, April 19th, 2019 | 11:00am - 12:00pm<br>
+Location: AES220
 <br>
 
 ### Past Events<br>
