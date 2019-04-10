@@ -4,7 +4,7 @@ layout: default
 ## Mobile Computing
 **Next Event**
 *How's it like being an Android intern?* <br>
-Date undefined, hopefully in the AES 220 <br>
+Friday, April 19th, 2019 AES 220 | 10:30-am to 11-am <br>
 
 * I will be giving a talk on my experience as an Android intern, while
 I was working for FitSW and Trimble Navigation.
