@@ -3,12 +3,14 @@ layout: default
 ---
 # Cybersecurity<br>
 ## Next Event <br>
-***RockCyber CEO Presentation*** <br>
+***IoT Is Not Spelled NO!*** - *IoT Challenges from a CISO’s Perspective* <br>
 *by Rock Lambros, CEO RockCyber<br>
 Friday, April 19, 2019
 12:00 - 1:00pm*
 <br>
 > As the CEO and Founder of RockCyber, LLC, I am seasoned Cybersecurity and Information Technology executive with 20 years of experience in aligning Cybersecurity and technology strategy with enterprise business goals in order to reduce the risk of revenue to the organization. This includes building security programs, architecture, operations, threat intelligence, governance, risk management, compliance and incident response for (multi-billion dollar) global organizations with exceptional security requirements. My enterprise experience has spanned industries with vastly differing security and privacy requirements including energy, eCommerce, government, banking, and manufacturing. <br> <br> [Rock's LinkedIn Profile](https://www.linkedin.com/in/rocklambros/) <br> [RockCyber Website](https://rockcyber.com/) <br/>
+
+The IoT train is already here. The business is already pounding down IT’s and Security’s door for IoT solutions that will allow the business to be better/faster/stronger. Planning for an IoT implementation raises many challenges, the least of which is that IoT typically requires a complex, blended approach of different architectures with IT, OT and physical security. Security leaders must understand these challenges, business drivers, technology drivers and market drivers when developing their IoT security strategy. Security leaders must partner with multiple business units to ensure a successful IoT deployment. We will examine some of the unique challenges and trends of a secure and successful IoT deployment, and a few real-world examples of IoT deployments that have improved business processes.
 
 <br>
 <br>
