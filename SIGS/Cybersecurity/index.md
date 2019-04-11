@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-## Cybersecurity<br>
-### Next Event <br>
-***RockCyber CEO Presentation*** - *Topic: TBA*<br>
+# Cybersecurity<br>
+## Next Event <br>
+***RockCyber CEO Presentation*** <br>
 *by Rock Lambros, CEO RockCyber<br>
 Friday, April 19, 2019
 12:00 - 1:00pm*
+<br>
+> As the CEO and Founder of RockCyber, LLC, I am seasoned Cybersecurity and Information Technology executive with 20 years of experience in aligning Cybersecurity and technology strategy with enterprise business goals in order to reduce the risk of revenue to the organization. This includes building security programs, architecture, operations, threat intelligence, governance, risk management, compliance and incident response for (multi-billion dollar) global organizations with exceptional security requirements. My enterprise experience has spanned industries with vastly differing security and privacy requirements including energy, eCommerce, government, banking, and manufacturing. <br> [Rock's LinkedIn Profile](https://www.linkedin.com/in/rocklambros/) <br> [RockCyber Webiste](https://rockcyber.com/) <br>
+<br>
 <br>
 
 ### Past Events <br>
