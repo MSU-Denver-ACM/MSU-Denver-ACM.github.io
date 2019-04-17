@@ -19,3 +19,7 @@ There are these Special Interest Groups available within our student chapter:
 * [Mobile Computing](SIGS/Mobile/)
 * [Cybersecurity](SIGS/Cybersecurity/)
 * [Functional Programming](SIGS/Functional_Programming/)
+
+
+Information to improve job search and interview skills
+* [Job search and interview skills](SIGS/Job_Search)
