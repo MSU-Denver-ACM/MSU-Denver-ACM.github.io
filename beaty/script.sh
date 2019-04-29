@@ -20,7 +20,7 @@ urls=( \
 "https://github.com/rhill53/CS3250SpringH2KTB/graphs/contributors" \
 "https://github.com/git-confused-team3/GitConfused/graphs/contributors" \
 "https://github.com/msudenvercs/3250-spring-2019-team-4/graphs/contributors" \
-"https://github.com/msudenvercs/3250-spring-2019-team-5/graphs/contributors" \
+"https://github.com/johnhshapiro/trelloship" \
 "https://github.com/rykonermana/3250-spring-2019-team-6/graphs/contributors" \
     "https://trello.com/b/45CG5wWY" \
     "https://trello.com/b/ZqjlOib5" \
