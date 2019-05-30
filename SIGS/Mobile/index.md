@@ -30,11 +30,12 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 
 **Moar stuff**
 
+360|AnDev is happening pretty soon.
+If you apply for a scholarship, you might be able to get in for free.
+<https://360andev.com/about/inclusivity-scholarships/>
+
 AndroidThings no longer supported for certain System on Modules.
 <https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html>
-
-Mr. Yaghmour is giving a talk regarding the Android's security internals.
-<https://www.youtube.com/watch?v=7QwhF4ANq6Q>
 
 Kotlinconf is happening again this year.
 <https://kotlinconf.com/>
