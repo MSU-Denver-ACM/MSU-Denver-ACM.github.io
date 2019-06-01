@@ -35,6 +35,7 @@ If you apply for a scholarship, you might be able to get in for free.
 <https://360andev.com/about/inclusivity-scholarships/>
 
 AndroidThings no longer supported for certain System on Modules.
+The development for it has completely halted.
 <https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html>
 
 Kotlinconf is happening again this year.
