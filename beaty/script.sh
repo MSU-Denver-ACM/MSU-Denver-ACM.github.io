@@ -11,9 +11,11 @@ urls=( \
     "https://github.com/GitNickProgramming/Dork/graphs/contributors" \
     "https://github.com/team-c3250-noname/Dork/graphs/contributors" \
     "https://github.com/cs-3250/dork/graphs/contributors" \
+    "https://github.com/JoshMcKinstry/team34/graphs/contributors" \
     "https://trello.com/b/ADkrbwOr/" \
     "https://trello.com/b/UH1ZblkH/" \
     "https://trello.com/b/JcpTsXlj/" \
+    "https://trello.com/b/tNAmGGNo/" \
 )
 
 length=$((${#filenames[@]} - 1))
