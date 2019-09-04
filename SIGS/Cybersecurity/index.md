@@ -37,4 +37,6 @@ and Network Services*
 
 **Career and Additional Info**
 
-Data on jobs available, job titles, relevant education and certificates and career paths. <https://www.cyberseek.org/>
+Data on jobs available, job titles, relevant education and certificates and career paths: <https://www.cyberseek.org/>
+
+One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
