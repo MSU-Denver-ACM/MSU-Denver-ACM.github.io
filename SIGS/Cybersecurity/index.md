@@ -40,3 +40,11 @@ and Network Services*
 Data on jobs available, job titles, relevant education and certificates and career paths: <https://www.cyberseek.org/>
 
 One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
+
+A good, Windows-centric, intro: <https://decentsecurity.com/>
+
+Very deep dives into exploits: <https://googleprojectzero.blogspot.com/>
+
+Security Taylor Swift: <https://twitter.com/SwiftOnSecurity>
+
+Latest Verizon data breach report: <https://enterprise.verizon.com/resources/reports/dbir/>
