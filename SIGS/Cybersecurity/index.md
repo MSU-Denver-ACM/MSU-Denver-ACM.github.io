@@ -43,8 +43,10 @@ One of the best sources for cybersecurity news: <https://www.sans.org/newsletter
 
 A good, Windows-centric, intro: <https://decentsecurity.com/>
 
-Very deep dives into exploits: <https://googleprojectzero.blogspot.com/>
-
 Security Taylor Swift: <https://twitter.com/SwiftOnSecurity>
 
+Very deep dives into exploits: <https://googleprojectzero.blogspot.com/>
+
 Latest Verizon data breach report: <https://enterprise.verizon.com/resources/reports/dbir/>
+
+El Reg: <https://twitter.com/TheRegister>
