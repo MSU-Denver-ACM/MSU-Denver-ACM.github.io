@@ -8,6 +8,8 @@ Coming soon...
 ```
 
 <br>
+Elixirconf will be held again in Colorado next year.
+
 Resources to learn more about Functional Programming.<br>
 [Wikipedia Functional programming](https://en.wikipedia.org/wiki/Functional_programming)<br>
 [The Scala Programming Language](https://www.scala-lang.org/)<br>

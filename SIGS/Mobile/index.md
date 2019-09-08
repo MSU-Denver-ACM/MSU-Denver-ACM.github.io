@@ -29,12 +29,17 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 <br>
 
 **Moar stuff**
+Android 10 is now out.
+<https://developer.android.com/about/versions/10/>
 
-AndroidThings no longer supported for certain System on Modules.
-<https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html>
+Paradigm called Edge Computing is gaining traction?
+<https://www.hpe.com/us/en/what-is/edge-computing.html>
 
 Kotlinconf is happening again this year.
 <https://kotlinconf.com/>
 
 The Big Nerd Ranch Guide is going to be publishing the 4th edition of "Android Programming."
 <https://www.bignerdranch.com/books/>
+
+AndroidThings no longer supported for certain System on Modules (it's dead or something).
+<https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html>
