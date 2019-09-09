@@ -10,11 +10,11 @@ AES220 at 4:00pm
 
   * [Bandit](https://overthewire.org/wargames/bandit/) - Practice and learn new command line tools while hacking.
 
-  **Requirements**
-  * Windows users: download and install PuTTy, then test access to overthewire's server.
+  * *Windows users:* download and install PuTTy, then test access to overthewire's server.
 
-  * Mac users: test shh access to overthewire's server.
+  * *Mac users:* test shh access to overthewire's server.
 
+  Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
   <br>
   [OverTheWire.org](https://overthewire.org/wargames/bandit/)
 
