@@ -14,9 +14,11 @@ AES220 at 4:00pm
 
   * *Mac users:* test shh access to overthewire's server.
 
+  [OverTheWire.org](https://overthewire.org/wargames/bandit/)
+  <br>
+  <br>
   Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
   <br>
-  [OverTheWire.org](https://overthewire.org/wargames/bandit/)
 
 <br>
 <br>
