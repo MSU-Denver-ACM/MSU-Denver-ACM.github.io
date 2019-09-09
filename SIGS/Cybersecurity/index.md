@@ -4,11 +4,14 @@ layout: default
 ## Cybersecurity
 **Next Event**<br>
 ***Capture The Flag - Bandit***<br>
-Thursday, September 12th, 2019 <br>
+Thursday, September 19th, 2019 <br>
 AES220 at 4:00pm
+<br> 
+<br>
+Come learn new skills or test your knowledge! Beginners welcome, prizes available!!
 <br>
 
-  * [Bandit](https://overthewire.org/wargames/bandit/) - Practice and learn new command line tools while hacking.
+[Bandit](https://overthewire.org/wargames/bandit/) - Practice and learn new command line tools while hacking.
 
   * *Windows users:* download and install PuTTy, then test access to overthewire's server.
 
