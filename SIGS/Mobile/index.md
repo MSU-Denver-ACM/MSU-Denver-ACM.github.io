@@ -29,6 +29,7 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 <br>
 
 **Moar stuff**
+<br>
 Android 10 is now out.
 <https://developer.android.com/about/versions/10/>
 
