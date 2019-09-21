@@ -42,5 +42,5 @@ Kotlinconf is happening again this year.
 The Big Nerd Ranch Guide is going to be publishing the 4th edition of "Android Programming."
 <https://www.bignerdranch.com/books/>
 
-AndroidThings no longer supported for certain System on Modules (it's dead or something).
+AndroidThings no longer supported for certain System on Modules (talked to one of the Googler about, and he said, "it's in the back burner").
 <https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html>
