@@ -1,21 +1,15 @@
 #! /bin/bash
 
 filenames=( \
-   "git_team1" \
-   "git_team2" \
-   "trello_team1" \
-   "trello_team2" \
+   "team1_sdlc" \
+   "team1_repo" \
+   "team2_repo" \
 )
 
 urls=( \
-    "https://github.com/GitNickProgramming/Dork/graphs/contributors" \
-    "https://github.com/team-c3250-noname/Dork/graphs/contributors" \
-    "https://github.com/cs-3250/dork/graphs/contributors" \
-    "https://github.com/JoshMcKinstry/team34/graphs/contributors" \
-    "https://trello.com/b/ADkrbwOr/" \
-    "https://trello.com/b/UH1ZblkH/" \
-    "https://trello.com/b/JcpTsXlj/" \
-    "https://trello.com/b/tNAmGGNo/" \
+    "https://github.com/Mirroraculous/Mirroraculous/projects/1" \
+    "https://github.com/Mirroraculous/Mirroraculous/graphs/contributors" \
+    "https://github.com/team-discovery-channel/compose/graphs/contributors" \
 )
 
 length=$((${#filenames[@]} - 1))
