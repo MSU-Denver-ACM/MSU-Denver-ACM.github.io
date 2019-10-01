@@ -3,12 +3,14 @@
 filenames=( \
    "team1_sdlc" \
    "team1_repo" \
+   "team2_sdlc" \
    "team2_repo" \
 )
 
 urls=( \
     "https://github.com/Mirroraculous/Mirroraculous/projects/1" \
     "https://github.com/Mirroraculous/Mirroraculous/graphs/contributors" \
+    "https://trello.com/b/LFmDKfDA/" \
     "https://github.com/team-discovery-channel/compose/graphs/contributors" \
 )
 
