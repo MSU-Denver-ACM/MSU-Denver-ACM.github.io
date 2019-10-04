@@ -15,11 +15,12 @@ will be provided with unique opportunities for networking, mentoring, and
 bonding over common interests.
 
 There are these Special Interest Groups available within our student chapter:
-* [Machine Learning](SIGS/Machine_Learning/)
-* [Mobile Computing](SIGS/Mobile/)
+
+* [Internship/Job and Interview Prep. events](SIGS/Job_Search)
 * [Cybersecurity](SIGS/Cybersecurity/)
+* [Mobile Computing](SIGS/Mobile/)
+* [Machine Learning](SIGS/Machine_Learning/)
 * [Functional Programming](SIGS/Functional_Programming/)
 
 
 Information to improve job search and interview skills
-* [Job search and interview skills](SIGS/Job_Search)
