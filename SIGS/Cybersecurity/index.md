@@ -3,10 +3,17 @@ layout: default
 ---
 ## Cybersecurity
 **Next Event**<br>
+```
+Coming soon...
+```
+
+
+
+**Past Events**<br>
 ***Capture The Flag - Bandit***<br>
 Thursday, September 19th, 2019 <br>
 AES220 at 4:00pm
-<br> 
+<br>
 <br>
 Come learn new skills or test your knowledge! Beginners welcome, prizes available!!
 <br>
@@ -25,8 +32,6 @@ Come learn new skills or test your knowledge! Beginners welcome, prizes availabl
 
 <br>
 <br>
-
-**Past Events**<br>
 
 ***Kali/Metasploitable*** - *Penetration Testing
 by Dr. Beaty*<br>
