@@ -5,6 +5,15 @@ layout: default
 ## Job Search and Interview Skills
 
 **Next Event**<br>
+```
+Coming soon...
+```
+
+<br>
+<br>
+
+
+**Past Events**<br>
 ***Do you want a Computer Science Internship or Job?***<br>
 
 Please join us for a [Travelport](https://www.travelport.com/)-hosted event.
@@ -26,10 +35,7 @@ AES Forum - West side of AES building from 4:00pm - 6:00pm
   <br>
 
 <br>
-<br>
 
-
-**Past Events**<br>
 ***Job Search Basics & Interviewing***
 *by Tennille Hamler, MA* Career Specialist – STEM Majors
 > [Download Presentation]({{ site.baseurl }}/Archive/JobSearch/Job Search & Interviewing Strategies.pptx)

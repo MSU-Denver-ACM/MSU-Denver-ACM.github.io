@@ -2,10 +2,53 @@
 layout: default
 ---
 ## Cybersecurity
-**Next Event**<br>
-```
-Coming soon...
-```
+**Next Events**<br>
+***Command line Scripting/Vim Workshop***<br>
+Thursday, October 17th, 2019 <br>
+At AES220, 4:00pm - 5:00pm
+<br>
+<br>
+
+  * Learn command-line basics for MacOS, Linux, and Windows
+
+  * Begin learning skills you will need in your career
+
+  * Great preparation for upcoming Capture the Flag event
+
+Don't miss out and put more tools under your belt.
+
+  <br>
+  <br>
+  Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
+  <br>
+
+<br>
+<br>
+
+
+***Capture The Flag - Tsutomu***<br>
+Thursday, October 24th, 2019 <br>
+AES220 from 3:00pm to 4:00pm
+<br>
+<br>
+Come learn new skills or test your knowledge! Beginners welcome, light refreshments available!!
+<br>
+
+[Tsutomu](https://overthewire.org/warzone/tsutomu) - Practice and learn new hacking techniques.
+
+  * Basics will be covered
+  * Learn TCP sequence prediction attack
+  * Bring your laptop
+
+  [OverTheWire.org](https://overthewire.org/wargames/bandit/)
+  <br>
+  <br>
+  Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
+  <br>
+
+<br>
+<br>
+
 
 
 
