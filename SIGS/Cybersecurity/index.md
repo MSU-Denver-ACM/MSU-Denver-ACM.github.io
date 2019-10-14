@@ -18,13 +18,10 @@ At AES220, 4:00pm - 5:00pm
 Don't miss out and put more tools under your belt.
 
   <br>
-  <br>
   Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
   <br>
 
 <br>
-<br>
-
 
 ***Capture The Flag - Tsutomu***<br>
 Thursday, October 24th, 2019 <br>
@@ -42,11 +39,9 @@ Come learn new skills or test your knowledge! Beginners welcome, light refreshme
 
   [OverTheWire.org](https://overthewire.org/wargames/bandit/)
   <br>
-  <br>
   Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
   <br>
 
-<br>
 <br>
 
 
