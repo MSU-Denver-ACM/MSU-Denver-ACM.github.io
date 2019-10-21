@@ -5,6 +5,9 @@ layout: default
 * One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
 * A good, Windows-centric, intro: <https://decentsecurity.com/>
 * Latest Verizon data breach report: <https://enterprise.verizon.com/resources/reports/dbir/>
+* El Reg: <https://twitter.com/TheRegister>
+* Set up a Google Alert <https://www.google.com/alerts> for "computer security".
+* MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. <https://attack.mitre.org/>
 
 **Careers**
 * Data on jobs available, job titles, relevant education and certificates and career paths: <https://www.cyberseek.org/>
