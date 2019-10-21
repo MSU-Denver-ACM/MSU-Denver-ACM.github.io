@@ -5,5 +5,5 @@ layout: default
 **Next Event**<br>
 ```Coming soon...```
 
-* [Resources](resources.html)
-* [Past events](past_events.html)
+* [Resources](resources.md)
+* [Past events](past_events.md)
