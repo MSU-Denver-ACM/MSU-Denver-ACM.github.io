@@ -30,9 +30,8 @@ do
         --filename=${filenames[$i]} \
         --scale='.5' \
         ${urls[$i]}
+    echo "https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/${filename}.png"
 done
 
-# https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/git_team1.png
-
-git commit -am `date "+%Y-%m-%d:%H:%M:%S"`
-git push
+# git commit -am `date "+%Y-%m-%d:%H:%M:%S"`
+# git push
