@@ -33,5 +33,10 @@ do
     echo "https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/${filename}.png"
 done
 
+pageres \
+    --filename=Cybersecurity.png \
+    --scale='.5' \
+    'https://msu-denver-acm.github.io/SIGS/Cybersecurity/'
+
 # git commit -am `date "+%Y-%m-%d:%H:%M:%S"`
 # git push
