@@ -18,7 +18,9 @@ Learn the tools needed to have a career in Cybersecurity. We'll cover basic up t
   * [Nmap:](https://nmap.org/download.html) Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing <br>
   
   * [Kali Linux VM:](https://www.kali.org/) The premier hacker Linux OS with builtin hacking and testing tools
-    - Best run as a VM in Virtualbox or Parallels (MacOS) or VMWare (Windows)
+    - Download a target system: [Metasploitable3](https://github.com/rapid7/metasploitable3/)
+    - Both run as a Virtual Machine in Virtualbox or Parallels (MacOS) or VMWare (Windows)
+
   
   <br>
 If you need help getting these tools downloaded and working on your system, please feel free to reach out:<n> mmcmah13@msudenver.edu  
