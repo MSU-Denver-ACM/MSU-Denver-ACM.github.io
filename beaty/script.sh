@@ -8,6 +8,10 @@ filenames=( \
    "team3_sdlc" \
    "team4_sdlc" \
    "team4_repo" \
+   "team5_sdlc" \
+   "team6_sdlc" \
+   "team6_repo" \
+   "Cybersecurity" \
 )
 
 urls=( \
@@ -18,6 +22,10 @@ urls=( \
     "https://undecideds.atlassian.net/projects/ASA/issues/?filter=allissues&=" \
     "https://github.com/cdvandyke/CPAP-extraction/issues" \
     "https://github.com/cdvandyke/CPAP-extraction/graphs/contributors" \
+    "https://trello.com/b/Y64HlPKo/" \
+    "https://trello.com/b/wylqbIxE/" \
+    "https://github.com/sheet-t/HPotter/graphs/contributors" \
+    "https://msu-denver-acm.github.io/SIGS/Cybersecurity/" \
 )
 
 length=$((${#filenames[@]} - 1))
@@ -32,11 +40,3 @@ do
         ${urls[$i]}
     echo "https://raw.githubusercontent.com/MSU-Denver-ACM/MSU-Denver-ACM.github.io/beaty_web_images/beaty/${filename}.png"
 done
-
-pageres \
-    --filename=Cybersecurity.png \
-    --scale='.5' \
-    'https://msu-denver-acm.github.io/SIGS/Cybersecurity/'
-
-# git commit -am `date "+%Y-%m-%d:%H:%M:%S"`
-# git push
