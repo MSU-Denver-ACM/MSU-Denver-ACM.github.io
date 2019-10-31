@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-## Cybersecurity
-###Angel I.####
+## Cybersecurity##
+###Angel I.###
 ###Paranoid Mind###
 Thursday November 7th, 1900 -- 2015, King Center 313.
 
