@@ -2,9 +2,11 @@
 layout: default
 ---
 ## Cybersecurity
+<center>
 ### Angel I.
 ### Paranoid Mind
-Thursday November 7th, 1900 -- 2015, King Center 313.
+Thursday November 7th 2019, 1900 -- 2015, King Center 313
+</center>
 
 Bio: Currently contracted as a Senior CyberSecurity Engineer by the State; previous employment includes IBM and Arrow Electronics. In the business for going on 13 years, starting from "Intern". Knows a little bit about most things and a lot about a few things. Interests include AI, ML, Red/Blue/Purple teaming, forensics (digital and analog), and wavering between unfettered optimism and full-bore pessimism about the future.
 
