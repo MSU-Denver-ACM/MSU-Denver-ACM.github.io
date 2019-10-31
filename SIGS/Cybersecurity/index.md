@@ -2,44 +2,12 @@
 layout: default
 ---
 ## Cybersecurity
-**Next Event**<br>
-```
-Coming soon...
-```
+###Angel I.####
+###Paranoid Mind###
+Thursday November 7th, 1900 -- 2015, King Center 313.
 
-**Past Events**<br>
+Bio: Currently contracted as a Senior CyberSecurity Engineer by the State; previous employment includes IBM and Arrow Electronics. In the business for going on 13 years, starting from "Intern". Knows a little bit about most things and a lot about a few things. Interests include AI, ML, Red/Blue/Purple teaming, forensics (digital and analog), and wavering between unfettered optimism and full-bore pessimism about the future.
 
-***Kali/Metasploitable*** - *Penetration Testing
-by Dr. Beaty*<br>
-Friday, February 15th, 2019 <br>
-12:00 - 1:00pm
-<br>
+BS in InfoSec, AA in Networking, and a CISSP among many other industry certifications.
 
-  * Presentation will cover Networking Basics and how to setup and run Kali and Metasploitable 2. No experience required.
-
-  * Recommended: a running Virtual Machine on your computer. USB drives to download Kali and Metasploitable will be provided.
-
-Instructions for installing/running virtual machines can be found [here.](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
-
-Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
-<br>
-<br>
-
-***EMOTET Presentation***
-*by Mike Hart: Director of Security, Infrastructure,
-and Network Services*
-
-[Download EMOTET Presentation](https://msu-denver-acm.github.io/SIGS/Cybersecurity/assets/02012019emotet.pdf/)
-
-<br>
-<br>
-
-
-**Career and Additional Info**
-* Data on jobs available, job titles, relevant education and certificates and career paths: <https://www.cyberseek.org/>
-* One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
-* A good, Windows-centric, intro: <https://decentsecurity.com/>
-* Security Taylor Swift: <https://twitter.com/SwiftOnSecurity>
-* Very deep dives into exploits: <https://googleprojectzero.blogspot.com/>
-* Latest Verizon data breach report: <https://enterprise.verizon.com/resources/reports/dbir/>
-* Videos of OWASP's conferences: <https://www.youtube.com/user/OWASPGLOBAL>
+Two-time presenter on Artificial Intelligence at DefCon's Skytalks; now serving as Board Member for same. President of the Board for BSides Denver; volunteer since 2015.
