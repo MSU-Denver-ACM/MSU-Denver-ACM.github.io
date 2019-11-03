@@ -11,10 +11,13 @@ Then this event is right for you.
 
 * *Did you know*
 
-...You can do Grad School on weekends? Or entirely online?
-...Applications are due in December and January?
-...A master’s degree counts as a year of work experience?
-...Your employer might pay for it?
+  You can do Grad School on weekends? Or entirely online?
+
+  Applications are due in December and January?
+
+  A master’s degree counts as a year of work experience?
+  
+  Your employer might pay for it?
 
 
 Join us for this event and you'll be able to learn all this and more about Graduate School.
@@ -33,7 +36,7 @@ Join us for this event and you'll be able to learn all this and more about Gradu
 * ***ThienNgo Lee*** B.S. MSU Denver, Currently M.S. Colorado School of Mines.
 * ***Susan Ramsay*** Graduated CU Boulder, M.S. Regis University, currently working on a second M.S. at SANS Technology Institute.
 
-**Free Pizza Available** 
+**Free Pizza Available**
 
 
 <br>
