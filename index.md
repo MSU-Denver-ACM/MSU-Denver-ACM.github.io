@@ -16,7 +16,7 @@ bonding over common interests.
 
 There are these Special Interest Groups available within our student chapter:
 
-* [Internship/Job and Interview Prep. events](SIGS/Job_Search)
+* [Monthly Event](SIGS/Monthly_Event)
 * [Cybersecurity](SIGS/Cybersecurity/)
 * [Mobile Computing](SIGS/Mobile/)
 * [Machine Learning](SIGS/Machine_Learning/)
