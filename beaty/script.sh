@@ -12,6 +12,7 @@ filenames=( \
    "team6_sdlc" \
    "team6_repo" \
    "Cybersecurity" \
+   "Monthly" \
 )
 
 urls=( \
@@ -26,6 +27,7 @@ urls=( \
     "https://trello.com/b/wylqbIxE/" \
     "https://github.com/sheet-t/HPotter/graphs/contributors" \
     "https://msu-denver-acm.github.io/SIGS/Cybersecurity/" \
+    "https://msu-denver-acm.github.io/SIGS/Monthly_Event/" \
 )
 
 length=$((${#filenames[@]} - 1))
