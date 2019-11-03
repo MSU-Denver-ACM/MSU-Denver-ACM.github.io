@@ -3,7 +3,22 @@ layout: default
 ---
 ## Monthly Event
 ### Interested in Grad School for Computer Science?
-<div style="text-align: right">  </div>
+<div style="text-align: right">November 7, 3:30-5:15PM</div>
+<div style="text-align: right">At AES Forum</div>
+
+Have you ever wondered if you should attend Grad School?
+Then this event is right for you.
+
+* *Did you know*
+
+...You can do Grad School on weekends? Or entirely online?
+...Applications are due in December and January?
+...A master’s degree counts as a year of work experience?
+...Your employer might pay for it?
+
+
+Join us for this event and you'll be able to learn all this and more about Graduate School.
+
 **Guest Speakers from CU Denver**
 * ***Ms. Kelly Santa Maria***, Director of Graduate Admission
 * ***Ms. Allison Gus***, Specialist of Engineering Graduate Program
@@ -17,6 +32,8 @@ layout: default
 * ***John McKinstry*** B.S. MSU Denver. Currently work at Charles Schwab and pursuing a M.S. in Machine Learning through the Georgia Institute of Technology online program.
 * ***ThienNgo Lee*** B.S. MSU Denver, Currently M.S. Colorado School of Mines.
 * ***Susan Ramsay*** Graduated CU Boulder, M.S. Regis University, currently working on a second M.S. at SANS Technology Institute.
+
+**Free Pizza Available** 
 
 
 <br>
