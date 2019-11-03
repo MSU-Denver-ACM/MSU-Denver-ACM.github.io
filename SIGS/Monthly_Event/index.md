@@ -1,18 +1,25 @@
 ---
 layout: default
 ---
+## Monthly Event
+### Interested in Grad School for Computer Science?
+<div style="text-align: right">  </div>
+**Guest Speakers from CU Denver**
+* ***Ms. Kelly Santa Maria***, Director of Graduate Admission
+* ***Ms. Allison Gus***, Specialist of Engineering Graduate Program
 
-## Job Search and Interview Skills
+**Guest Speakers from MSU Denver, Master of Cybersecurity Program**
+* ***Dr. LiYing Li***, Professor of Cybersecurity M.S.
+* ***Ms. Lucy Daberkow***, Program Manager of Cybersecurity M.S.
 
-**Next Event**<br>
-```
-Coming soon...
-```
+**Panelist**
+* ***Dr. David Fifield*** B.S. MUS Denver, M.S. Stanford University, Ph.D. University of California, Berkeley.
+* ***John McKinstry*** B.S. MSU Denver. Currently work at Charles Schwab and pursuing a M.S. in Machine Learning through the Georgia Institute of Technology online program.
+* ***ThienNgo Lee*** B.S. MSU Denver, Currently M.S. Colorado School of Mines.
+* ***Susan Ramsay*** Graduated CU Boulder, M.S. Regis University, currently working on a second M.S. at SANS Technology Institute.
+
 
 <br>
-<br>
-
-
 **Past Events**<br>
 ***Do you want a Computer Science Internship or Job?***<br>
 
