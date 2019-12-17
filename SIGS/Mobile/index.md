@@ -33,17 +33,14 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 
 **Moar stuff**
 <br>
+Google released a new API called depth in their ARCore library.
+<https://www.youtube.com/watch?v=VOVhCTb-1io>
+
 Android 10 is now out.
 <https://developer.android.com/about/versions/10/>
-
-Paradigm called Edge Computing is gaining traction?
-<https://www.hpe.com/us/en/what-is/edge-computing.html>
-
-Kotlinconf is happening again this year.
-<https://kotlinconf.com/>
 
 The Big Nerd Ranch Guide is going to be publishing the 4th edition of "Android Programming."
 <https://www.bignerdranch.com/books/>
 
-AndroidThings no longer supported for certain System on Modules (talked to one of the Googler about, and he said, "it's in the back burner").
+AndroidThings no longer supported for certain System on Modules; meaning, Google's not interested in the project for now.
 <https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html>
