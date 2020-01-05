@@ -33,13 +33,16 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 
 **Moar stuff**
 <br>
+New addition to Android Deep Dive series is estimated to be published this June.
+<http://www.informit.com/store/inside-the-android-os-building-customizing-managing-9780134096353>
+
 Google released a new API called depth in their ARCore library.
 <https://www.youtube.com/watch?v=VOVhCTb-1io>
 
 Android 10 is now out.
 <https://developer.android.com/about/versions/10/>
 
-The Big Nerd Ranch Guide is going to be publishing the 4th edition of "Android Programming."
+The Big Nerd Ranch Guide has publised the 4th edition of "Android Programming," which now uses Kotlin.
 <https://www.bignerdranch.com/books/>
 
 AndroidThings no longer supported for certain System on Modules; meaning, Google's not interested in the project for now.
