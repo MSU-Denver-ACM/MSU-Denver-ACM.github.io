@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+**Regulations and Frameworks**
+* <https://www.cybok.org/media/downloads/CyBOK\_version\_1.0\_YMKBy7a.pdf>
+* <https://www.nist.gov/cyberframework>
+
 **General information**
 * One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
 * A good, Windows-centric, intro: <https://decentsecurity.com/>
