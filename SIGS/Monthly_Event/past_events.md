@@ -41,7 +41,7 @@ Join us for this event and you'll be able to learn all this and more about Gradu
 
 <br>
 
-***Do you want a Computer Science Internship or Job?***<br>
+### Do you want a Computer Science Internship or Job?
 
 Please join us for a [Travelport](https://www.travelport.com/)-hosted event.
 <br>
