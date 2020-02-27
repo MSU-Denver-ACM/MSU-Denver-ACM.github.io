@@ -13,7 +13,7 @@ Come join us on Monday, March 2
 Free snacks and gifts available!
 Don't miss out!
 
-{{ Archive/monthly_event/monthly_3-2-2020.png:img?width=50% alt='stem fair preparation' }}
+![monthly event]({{ site.baseurl }}/Archive/monthly_event/monthly_3-2-2020.png)
 
 * [Resources](resources.html)
 * [Past events](past_events.html)
