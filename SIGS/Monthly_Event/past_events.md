@@ -65,6 +65,6 @@ AES Forum - West side of AES building from 4:00pm - 6:00pm
 
 ***Job Search Basics & Interviewing***
 *by Tennille Hamler, MA* Career Specialist – STEM Majors
-> [Download Presentation]({{ site.baseurl }}/Archive/JobSearch/Job Search & Interviewing Strategies.pptx)
+> [Download Presentation]({{ site.baseurl }}/Archive/monthly_event/Job Search & Interviewing Strategies.pptx)
 
 > [Watch Presentation](https://www.youtube.com/channel/UCibj3htcvDSivEzTDUeXOzg)
