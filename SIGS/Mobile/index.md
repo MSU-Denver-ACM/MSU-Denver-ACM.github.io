@@ -35,13 +35,12 @@ Please feel free to reach out to the ACM club on our [Facebook Page](https://www
 <br>
 Just in case if your Andy Studio is too slow ...<br>
 <https://proandroiddev.com/improve-your-experience-on-android-studio-c8aeb25e80f>
-<br>
-New addition to the Android Deep Dive series is estimated to be published this June.<br>
-<http://www.informit.com/store/inside-the-android-os-building-customizing-managing-9780134096353><br>
-<br>
+<br><br>
+
 Google released a new API called depth in their ARCore library.<br>
 <https://www.youtube.com/watch?v=VOVhCTb-1io><br>
 <br>
+
 Venkat Subramaniam published a new book on Kotlin, and it's one of the few books that compare and contrasts
 Kotlin and Java in depth.<br>
 <https://pragprog.com/book/vskotlin/programming-kotlin><br>
