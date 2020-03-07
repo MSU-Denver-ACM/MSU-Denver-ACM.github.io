@@ -11,12 +11,13 @@ filenames=( \
    "team5_sdlc" \
    "team6_sdlc" \
    "team6_repo" \
-   "Cybersecurity" \
-   "Monthly" \
 )
 
+#   "Cybersecurity" \
+#   "Monthly" \
+
 urls=( \
-    "https://github.com/Mirroraculous/Mirroraculous/projects/1" \
+    "https://trello.com/b/r79PxdZn/" \
     "https://github.com/Mirroraculous/Mirroraculous/graphs/contributors" \
     "https://trello.com/b/LFmDKfDA/" \
     "https://github.com/team-discovery-channel/compose/graphs/contributors" \
