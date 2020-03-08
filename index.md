@@ -21,6 +21,4 @@ There are these Special Interest Groups available within our student chapter:
 * [Mobile Computing](SIGS/Mobile/)
 * [Machine Learning](SIGS/Machine_Learning/)
 * [Functional Programming](SIGS/Functional_Programming/)
-
-
-Information to improve job search and interview skills
+* [Software Engineering](SIGS/Software_Engineering/resources.md)
