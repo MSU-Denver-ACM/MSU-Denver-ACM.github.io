@@ -10,6 +10,8 @@ Come join us on Monday, March 2
 * [Travelport](https://www.travelport.com/) will help you update and review your resume.
 * Q&A with tech professionals
 
+![monthly event]({{ site.baseurl }}/Archive/monthly_event/monthly_3-2-2020.png)
+
 
 ### Interested in Grad School for Computer Science?
 <div style="text-align: right">November 7, 3:30-5:15PM</div>
