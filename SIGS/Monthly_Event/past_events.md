@@ -3,6 +3,14 @@ layout: default
 ---
 ## Past events
 
+### STEM Fair Preparation with Travelport
+Come join us on Monday, March 2
+4:00pm at AES Forum
+
+* [Travelport](https://www.travelport.com/) will help you update and review your resume.
+* Q&A with tech professionals
+
+
 ### Interested in Grad School for Computer Science?
 <div style="text-align: right">November 7, 3:30-5:15PM</div>
 <div style="text-align: right">At AES Forum</div>
