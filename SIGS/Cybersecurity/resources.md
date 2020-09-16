@@ -7,6 +7,7 @@ layout: default
 
 **General information**
 * One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
+* Free resources from SANS: <https://www.sans.org/free>
 * A good, Windows-centric, intro: <https://decentsecurity.com/>
 * Latest Verizon data breach report: <https://enterprise.verizon.com/resources/reports/dbir/>
 * El Reg: <https://twitter.com/TheRegister>
