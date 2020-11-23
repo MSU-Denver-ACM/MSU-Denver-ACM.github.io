@@ -1,4 +1,4 @@
-## What is the Association for Computing Machinery?
+## The Association for Computing Machinery at MSU Denver
 
 The ACM is a professional organization that brings together computing
 educators, researchers, and professionals to inspire dialogue, share
@@ -25,6 +25,7 @@ There are these Special Interest Groups available within our student chapter:
 Here are some good general abd computer science resources.
 
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
+* [100 essential lessons for those who want to learn to code in 2017] (https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [How I went from sales to frontend developer in 16 months](https://www.freecodecamp.org/news/how-i-went-from-sales-to-frontend-developer-in-16-months/)
 * [Introduction to computer programming and computer science course](https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/)
