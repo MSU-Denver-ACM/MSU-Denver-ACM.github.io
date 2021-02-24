@@ -18,6 +18,12 @@ layout: default
 * Data on jobs available, job titles, relevant education and certificates and career paths: <https://www.cyberseek.org/>
 * The resource for Colorado cybersecurity folks: <https://www.colorado-security.com/>. Join the Slack channel.
 
+**Certifications**
+* Security+
+    * https://www.youtube.com/user/professormesser
+    * https://www.youtube.com/playlist?list=PLG49S3nxzAnkijp3VBQ5CPf19bK-5hmec
+
+
 **Twitter feeds to follow**
 * @SwiftOnSecurity
 * @ExploitDB
