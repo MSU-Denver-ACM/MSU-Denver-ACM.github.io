@@ -8,6 +8,7 @@ layout: default
 **General information**
 * One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
 * Free resources from SANS: <https://www.sans.org/free>
+    * Some great posters from SANS: <https://www.sans.org/security-resources/posters/appsec/>
 * A good, Windows-centric, intro: <https://decentsecurity.com/>
 * Latest Verizon data breach report: <https://enterprise.verizon.com/resources/reports/dbir/>
 * El Reg: <https://twitter.com/TheRegister>
@@ -22,7 +23,6 @@ layout: default
 * Security+
     * https://www.youtube.com/user/professormesser
     * https://www.youtube.com/playlist?list=PLG49S3nxzAnkijp3VBQ5CPf19bK-5hmec
-
 
 **Twitter feeds to follow**
 * @SwiftOnSecurity
