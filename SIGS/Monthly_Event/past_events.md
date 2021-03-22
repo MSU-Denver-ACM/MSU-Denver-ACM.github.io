@@ -3,6 +3,16 @@ layout: default
 ---
 ## Past events
 
+### Prepping for Career Fairs: Presented by Brooksource
+Come join us on Friday, February 26th at 11:30 AM on the ACM Teams Channel.
+Use join code YWC6IY to join the event.
+
+* Effective elevator pitches
+* Resume building
+* Leaving a good impression virtually
+
+![monthly event]({{ site.baseurl }}/Archive/monthly_event/careerfairprep 2-26-2021.PNG)
+
 ### STEM Fair Preparation with Travelport
 Come join us on Monday, March 2
 4:00pm at AES Forum
