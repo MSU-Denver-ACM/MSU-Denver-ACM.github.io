@@ -14,7 +14,7 @@ Use join code YWC6IY to join the event.
  Abstract:  
  Coming from a data science type of position at a large tech company, back to an academic setting at an institution such as MSU Denver, it’s natural to hear questions about what these roles are like, how they vary, what skills are needed, etc. This talk will share a personal perspective on the range of data science roles in industry, focusing largely on the online advertising and market research domains. It will then delve into personal experiences/projects as a research-oriented data scientist at Facebook and eBay, including the creation and implementation of statistical methods and tools to enable and/or improve software products used for quantifying the effects of advertising on consumer behavior.
 
-Click the link to view the event recording:  
+Copy the link to view the event recording:  
 https://web.microsoftstream.com/video/6fc1b450-f887-450e-9582-dd815d8d9b92
 
 ### The Math Behind Machine Learning: Part 1
@@ -25,7 +25,7 @@ Use join code YWC6IY to join the event.
 * Math and theory behind machine learning
 * No background in mathematics required!
 
-Click the link to view the event recording:  
+Copy the link to view the event recording:  
 https://web.microsoftstream.com/video/f35da5d6-b39f-44db-b0e4-75a4128c602b?list=studio
 
 ![monthly event]({{ site.baseurl }}/Archive/monthly_event/MachineLearning4-2.png)
