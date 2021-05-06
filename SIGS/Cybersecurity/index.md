@@ -20,6 +20,7 @@ layout: default
 ### Careers
 * Data on jobs available, job titles, relevant education and certificates and career paths: <https://www.cyberseek.org/>
 * The resource for Colorado cybersecurity folks: <https://www.colorado-security.com/>. Join the Slack channel.
+* Federal cybersecurity jobs in Colorado: <https://www.usajobs.gov/Search/Results?l=Colorado&k=cyber>
 
 ### Certifications
 * Security+
