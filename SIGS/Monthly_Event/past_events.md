@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-## Past events
 
-### Data Science in Industry: How Both CS and Stats/Math Can Help You
+# Past events
+
+___
+___
+
+#####Data Science in Industry: How Both CS and Stats/Math Can Help You
 Come join us on Friday, April 30th at 12:00 PM on the ACM Teams Channel.
 Use join code YWC6IY to join the event.
 
@@ -17,7 +21,10 @@ Use join code YWC6IY to join the event.
 Copy the link to view the event recording:  
 https://web.microsoftstream.com/video/6fc1b450-f887-450e-9582-dd815d8d9b92
 
-### The Math Behind Machine Learning: Part 1
+___
+___
+
+#####The Math Behind Machine Learning: Part 1
 Come join us on Friday, April 2nd at 1:00 PM on the ACM Teams Channel.
 Use join code YWC6IY to join the event.
 
@@ -31,7 +38,10 @@ https://web.microsoftstream.com/video/f35da5d6-b39f-44db-b0e4-75a4128c602b?list=
 ![monthly event]({{ site.baseurl }}/Archive/monthly_event/MachineLearning4-2.png)
 
 
-### Prepping for Career Fairs: Presented by Brooksource
+___
+___
+
+#####Prepping for Career Fairs: Presented by Brooksource
 Come join us on Friday, February 26th at 11:30 AM on the ACM Teams Channel.
 Use join code YWC6IY to join the event.
 
@@ -41,7 +51,10 @@ Use join code YWC6IY to join the event.
 
 ![monthly event]({{ site.baseurl }}/Archive/monthly_event/careerfairprep 2-26-2021.PNG)
 
-### STEM Fair Preparation with Travelport
+___
+___
+
+#####STEM Fair Preparation with Travelport
 Come join us on Monday, March 2
 4:00pm at AES Forum
 
@@ -51,7 +64,10 @@ Come join us on Monday, March 2
 ![monthly event]({{ site.baseurl }}/Archive/monthly_event/monthly_3-2-2020.png)
 
 
-### Interested in Grad School for Computer Science?
+___
+___
+
+#####Interested in Grad School for Computer Science?
 <div style="text-align: right">November 7, 3:30-5:15PM</div>
 <div style="text-align: right">At AES Forum</div>
 
@@ -89,7 +105,10 @@ Join us for this event and you'll be able to learn all this and more about Gradu
 
 <br>
 
-### Do you want a Computer Science Internship or Job?
+___
+___
+
+#####Do you want a Computer Science Internship or Job?
 
 Please join us for a [Travelport](https://www.travelport.com/)-hosted event.
 <br>
