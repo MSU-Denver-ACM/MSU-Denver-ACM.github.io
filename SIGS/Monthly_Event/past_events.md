@@ -1,13 +1,11 @@
----
-layout: default
----
-
 # Past events
 
 ___
 ___
 
-#####Data Science in Industry: How Both CS and Stats/Math Can Help You
+#####
+
+Data Science in Industry: How Both CS and Stats/Math Can Help You
 Come join us on Friday, April 30th at 12:00 PM on the ACM Teams Channel.
 Use join code YWC6IY to join the event.
 
