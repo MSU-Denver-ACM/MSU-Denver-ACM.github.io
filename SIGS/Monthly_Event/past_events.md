@@ -23,10 +23,8 @@ ___
 > 
 > |When|Where|Link|
 > |---|---|---|
-> |Friday, April 2nd @ 1:00 PM |ACM Teams Channel|![Use join code YWC6IY](https://web.microsoftstream.com/video/6fc1b450-f887-450e-9582-dd815d8d9b92)|
-> 
-> Use join code `YWC6IY` and watch ![here](https://web.microsoftstream.com/video/f35da5d6-b39f-44db-b0e4-75a4128c602b?list=studio).
-> 
+> |Friday, April 2nd @ 1:00 PM |ACM Teams Channel|Use join code `YWC6IY` and watch ![here](https://web.microsoftstream.com/video/f35da5d6-b39f-44db-b0e4-75a4128c602b?list=studio)|
+>
 > * Intro to linear regression and gradient descent
 > * Math and theory behind machine learning
 > * No background in mathematics required!
@@ -40,22 +38,21 @@ ___
 
 > ### STEM Fair Preparation with Travelport
 > 
-> <div style="text-align: right">Monday, March 2 4:00pm </div>
-> <div style="text-align: right">AES Forum</div>
-> 
-> [Travelport](https://www.travelport.com/) will help you update and review your resume.|
-> 
-> ![monthly event]({{ site.baseurl }}/Archive/monthly_event/monthly_3-2-2020.png)
+> |When|Where|Link|
+> |---|---|---|
+> |Monday, March 2 @ 4:00pm|AES Forum|[Travelport](https://www.travelport.com/) will help you update and review your resume.|
+>
 > * Q&A with tech professionals
-
+> ![monthly event]({{ site.baseurl }}/Archive/monthly_event/monthly_3-2-2020.png)
 
 ___
 ___
 
 > ### Prepping for Career Fairs: Presented by Brooksource
 > 
-> <div style="text-align: right">Friday, February 26th @ 11:30 AM</div>
-> <div style="text-align: right">ACM Teams Channel</div>
+> |When|Where|Link|
+> |---|---|---|
+> |Friday, February 26th @ 11:30 AM|ACM Teams Channe|[Travelport](https://www.travelport.com/) will help you update and review your resume.|
 > 
 > * Effective elevator pitches
 > * Resume building
@@ -67,9 +64,9 @@ ___
 ___
 
 > ### Interested in Grad School for Computer Science?
-> 
-> <div style="text-align: right">November 7, 3:30-5:15PM</div>
-> <div style="text-align: right">At AES Forum</div>
+> |When|Where|Link|
+> |---|---|---|
+> |November 7th @ 3:30-5:15PM|AES Forum|[Travelport](https://www.travelport.com/) will help you update and review your resume.|
 > 
 > Have you ever wondered if you should attend Grad School? Then this event is right for you.
 > 
@@ -114,9 +111,10 @@ ___
 
 > ### Do you want a Computer Science Internship or Job?
 > 
-> <div style="text-align: right">Thursday October 10th, 2019 @ 4:00pm-6:00pm</div>
-> <div style="text-align: right">ACM Teams Channel</div>
->  
+> |When|Where|Link|
+> |---|---|---|
+> |Thursday October 10th, 2019 @ 4:00pm-6:00pm|ACM Teams Channel|[Travelport](https://www.travelport.com/) will help you update and review your resume.|
+> 
 > Please join us for a [Travelport](https://www.travelport.com/) hosted event.
 > 
 > * Meet Travelport representatives and get the opportunity to get an internship
@@ -126,12 +124,10 @@ ___
 > 
 > Please feel free to reach out to the ACM club on
 > our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
-> <br>
-> 
-> <br>
 > 
 > ***Job Search Basics & Interviewing***
 > *by Tennille Hamler, MA* Career Specialist – STEM Majors
-> > [Download Presentation]({{ site.baseurl }}/Archive/monthly_event/Job Search & Interviewing Strategies.pptx)
 > 
-> > [Watch Presentation](https://www.youtube.com/channel/UCibj3htcvDSivEzTDUeXOzg)
+> [Download Presentation]({{ site.baseurl }}/Archive/monthly_event/Job Search & Interviewing Strategies.pptx)
+> 
+> [Watch Presentation](https://www.youtube.com/channel/UCibj3htcvDSivEzTDUeXOzg)
