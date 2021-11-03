@@ -5,6 +5,7 @@ layout: default
 * One of the best sources for cybersecurity news: <https://www.sans.org/newsletters/newsbites>
 * A good, Windows-centric, intro: <https://decentsecurity.com/>
 * Latest Verizon data breach report: <https://enterprise.verizon.com/resources/reports/dbir/>
+* Cybersecurity Canon <https://icdt.osu.edu/cybercanon>
 
 **Careers**
 * Data on jobs available, job titles, relevant education and certificates and career paths: <https://www.cyberseek.org/>
