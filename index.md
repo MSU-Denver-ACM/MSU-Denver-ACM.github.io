@@ -29,7 +29,7 @@ TBD
 ### Good general and computer science resources.
 
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
-* [100 essential lessons for those who want to learn to code in 2017] (https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
+* [100 essential lessons for those who want to learn to code in 2017](https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [How I went from sales to frontend developer in 16 months](https://www.freecodecamp.org/news/how-i-went-from-sales-to-frontend-developer-in-16-months/)
 * [Introduction to computer programming and computer science course](https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/)
