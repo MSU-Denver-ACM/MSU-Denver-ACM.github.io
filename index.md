@@ -23,18 +23,10 @@ There are these Special Interest Groups available within our student chapter:
 * [Functional Programming](SIGS/Functional_Programming/)
 
 ### Current Officers
-**President**: Kayla Hornyak  
-  
-**Vice-President**:  Nicole Welch  
 
-**Secretary**:  Malcolm Johnson  
+TBD
 
-**Treasurer**:  Jeffrey Milton  
-
-**Social Media Officer**:  Robert Nelson  
-
-
-Here are some good general abd computer science resources.
+### Good general and computer science resources.
 
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 * [100 essential lessons for those who want to learn to code in 2017] (https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
