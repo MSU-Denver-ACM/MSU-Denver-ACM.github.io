@@ -26,7 +26,7 @@ There are these Special Interest Groups available within our student chapter:
 
 TBD
 
-### Good general and computer science resources.
+### Good General and Computer Science Resources
 
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 * [100 essential lessons for those who want to learn to code in 2017](https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
