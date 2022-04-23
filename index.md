@@ -28,7 +28,7 @@ President - Anthony Putman
 
 Vice President - Christian Mudd
 
-Treasurer - Han Lee
+Treasurer - Han Lee 
 
 Secretary - Kathryn Werner
 
