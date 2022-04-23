@@ -30,11 +30,11 @@ TBD
 
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 * [100 essential lessons for those who want to learn to code in 2017](https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
-* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Developer Roadmaps](https://roadmap.sh/)
 * [How I went from sales to frontend developer in 16 months](https://www.freecodecamp.org/news/how-i-went-from-sales-to-frontend-developer-in-16-months/)
 * [Introduction to computer programming and computer science course](https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/)
 * [Orders of magnitude prefixes for SI units](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-tools-and-calculators/orders-of-magnitude-prefixes-for-si-units.html)
 * [Resources for writing better](https://brians.wsu.edu/common-errors/)
 * [Software engineering body of knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 * [Lots of good working knowledge from Google](https://rework.withgoogle.com/)
-* [Where a lot of Colorado developers hang out](https://denver-devs.slack.com/)
+* [Where a lot of Colorado's developers hang out](https://www.denverdevs.org)
