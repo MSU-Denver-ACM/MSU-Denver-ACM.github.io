@@ -44,5 +44,5 @@ There are these Special Interest Groups available within our student chapter:
 * [Orders of magnitude prefixes for SI units](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-tools-and-calculators/orders-of-magnitude-prefixes-for-si-units.html)
 * [Resources for writing better](https://brians.wsu.edu/common-errors/)
 * [Software engineering body of knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
-* [Lots of good working knowledge from Google](https://rework.withgoogle.com/)
+* [Lots of good working knowledge from Google](https://rework.withgoogle.com/) 
 * [Where a lot of Colorado's developers hang out](https://www.denverdevs.org)
