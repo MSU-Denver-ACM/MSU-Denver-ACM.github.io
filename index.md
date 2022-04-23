@@ -33,6 +33,7 @@ There are these Special Interest Groups available within our student chapter:
       Secretary - Kathryn Werner
 
       Web Manager - Mikayla Faulkner
+      
 ### Good General and Computer Science Resources
 
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
