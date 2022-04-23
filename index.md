@@ -24,15 +24,15 @@ There are these Special Interest Groups available within our student chapter:
 
 ### Current Officers
 
-President - Anthony Putman
+      President - Anthony Putman
 
-Vice President - Christian Mudd
+      Vice President - Christian Mudd
 
-Treasurer - Han Lee
+      Treasurer - Han Lee
 
-Secretary - Kathryn Werner
+      Secretary - Kathryn Werner
 
-Web Manager - Mikayla Faulkner
+      Web Manager - Mikayla Faulkner
 ### Good General and Computer Science Resources
 
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
