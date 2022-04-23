@@ -24,7 +24,7 @@ There are these Special Interest Groups available within our student chapter:
 
 ### Current Officers
 
-President - Anthoy Putman
+President - Anthony Putman
 Vice President - Christian Mudd
 Treasurer - Han Lee
 Secretary - Kathryn Werner
