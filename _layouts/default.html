@@ -17,18 +17,17 @@
     <!-- HEADER -->
     <div class="navbar">
       <ul>
-        <li id="acm"><a href="{{ site.baseurl }}/">
+        <li id="acm"><a href="{{ site.baseurl }}/" aria-label="home">
           Home</a></li>
-        <li id="acm"><a href="https://msudenver.qualtrics.com/jfe/form/SV_cYNnlQphfuPke6F">Join MSU Denver ACM</a></li>
-        <li id="youtube"><a href="https://www.youtube.com/channel/UCibj3htcvDSivEzTDUeXOzg"><i class="fa fa-youtube"></i></a></li>
-        <li id="facebook"><a href="https://www.facebook.com/MSUDenverACM"><i class="fa fa-facebook-square"></i></a></li>
+        <li id="acm"><a href="https://msudenver.qualtrics.com/jfe/form/SV_cYNnlQphfuPke6F" aria-label="Join MSU Denver ACM">Join MSU Denver ACM</a></li>
+        <li id="youtube"><a href="https://www.youtube.com/channel/UCibj3htcvDSivEzTDUeXOzg" aria-label="youtube"><i class="fa fa-youtube"></i></a></li>
+        <li id="facebook"><a href="https://www.facebook.com/MSUDenverACM" aria-label="facebook"><i class="fa fa-facebook-square"></i></a></li>
       </ul>
     </div>
     <div id="header_wrap" class="outer">
       <header class="inner">
           <a href="{{ site.baseurl }}/"><img src="/ACMlogo.jpg" alt="ACM logo" class="logo"/></a>
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
             <section id="downloads">

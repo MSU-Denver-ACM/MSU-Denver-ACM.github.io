@@ -2,15 +2,15 @@
 layout: default
 ---
 ## Mobile Computing
-**Next Event**
+
+This page highlights interesting resources, developments and more in the space of mobile computing.
+
+### Next Event
 ```
 Coming soon...
 ```
-<br>
-<br>
 
-
-**Past Events**
+### Past Events
 *How's it like being an Android intern?* <br>
 Friday, April 19th, 2019 AES 220 | 10:30-am to 11-am <br>
 
@@ -27,12 +27,8 @@ Friday, February 15th, 2019 <br>
     ![Alt text](./2019_Feb_SIG.jpg?raw=true "Lonely Gourment and Firebase")
 
 Please feel free to reach out to the ACM club on our [Facebook Page](https://www.facebook.com/MSUDenverACM/) for any questions.
-<br>
 
-<br>
-
-**Moar stuff**
-<br>
+### More Stuff
 Just in case if your Andy Studio is too slow ...<br>
 <https://proandroiddev.com/improve-your-experience-on-android-studio-c8aeb25e80f>
 <br><br>
