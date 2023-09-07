@@ -24,15 +24,15 @@ There are these Special Interest Groups available within our student chapter:
 
 ### Current Officers
 
-      President - Anthony Putman
+      President - Kathryn Werner
 
-      Vice President - Christian Mudd
+      Vice President - Josh Lee
 
-      Treasurer - Han Lee
+      Treasurer - Myles Bunde Greene
 
-      Secretary - Kathryn Werner
+      Secretary - Christian Campbell
 
-      Web Manager - Mikayla Faulkner
+      Interim Events Manager - Mike Bate
       
 ### Good General and Computer Science Resources
 
